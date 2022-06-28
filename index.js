@@ -5,9 +5,10 @@ const fs = require('fs');
 class Contenedor {
   constructor(myFile) {
     this.myFile = myFile;
+    this.id = 1;
+    this.listProductsOnFile = [];
   }
-  id = 1;
-  listProductsOnFile = [];
+
   async save(myObject) {
     try {
       let content;
