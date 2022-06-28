@@ -1,0 +1,1 @@
+[{"title":"Pantalon","price":"$1500","thumbnail":"http://random1.com","id":1},{"title":"Sombrero","price":"$950","thumbnail":"http://random2.com","id":2},{"title":"Corbata","price":"$875","thumbnail":"http://random3.com","id":3}]
